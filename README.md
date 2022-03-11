@@ -2,7 +2,10 @@
 ## Hi, I am Md Mustahedur Rahman Mueid.
 I have 2-years of experience. I am highly motivated, extremely passionate, and have an exceptional work ethic. Others have always noticed the creativity and dedication I put in all of my work. Excellent written and verbal communication skills. Creative flexible and enthusiastic.
 
-### Skills: HTML5 / CSS3 / JS / React.js / Node.js / MongoDB/ Dart / Flutter / C++ / php
+<br />
+
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mueid97/) [<img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">](https://www.facebook.com/Mueid97/) [<img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">](https://twitter.com/mueid597) [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/mueid97/) [<img height="30" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">]()
+<br />
 
 - 🔭 I’m currently working on MERN Project 
 - 🌱 I’m currently learning React and Node 
