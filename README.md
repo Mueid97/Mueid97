@@ -11,9 +11,9 @@ I have 2-years of experience. I am highly motivated, extremely passionate, and h
   
 <br />
 
-- 🔭 I’m currently working on MERN Project 
-- 🌱 I’m currently learning React and Node 
-- 📫 How to reach me: +8801719844338 
+- 🔭 I’m currently working on MERN Project.
+- 🌱 I’m currently Working React and Node.
+- 📫 How to reach me: +8801719844338 (Whats app)
 
 
 ## :computer: Technologies that I know
