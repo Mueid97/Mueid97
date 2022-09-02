@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Mueid97/Mueid97/main/mueid.png)
+
 ## Hi, I am Md Mustahedur Rahman Mueid.
 I have 2-years of experience. I am highly motivated, extremely passionate, and have an exceptional work ethic. Others have always noticed the creativity and dedication I put in all of my work. Excellent written and verbal communication skills. Creative flexible and enthusiastic.
 
