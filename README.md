@@ -1,5 +1,5 @@
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://github.com/Mueid97/Mueid97/blob/main/Neon%20Green%20and%20White%20Professional%20LinkedIn%20Banner.png"></a>
+  <img  src="https://github.com/Mueid97/Mueid97/blob/main/Neon%20Green%20and%20White%20Professional%20LinkedIn%20Banner.png"></a>
 </p>
 
 ## Hi, I am Md Mustahedur Rahman Mueid.
